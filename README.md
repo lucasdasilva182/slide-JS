@@ -11,7 +11,7 @@ A demo pode ser acessado através do [link](https://lucasdasilva182.github.io/sl
   
 <p  align="center">
 
-<img  alt="rocketpay"  src="https://equivalent-apricot-peafowl.myfilebase.com/ipfs/QmQnQpV71C5WeKx1DWcgsC8rqA8xQ9tPFQ8p6efWhnW3FJ"  width="100%">
+<img  alt="SlideJS"  src="https://equivalent-apricot-peafowl.myfilebase.com/ipfs/QmQnQpV71C5WeKx1DWcgsC8rqA8xQ9tPFQ8p6efWhnW3FJ"  width="600px">
 
 </p>
 
